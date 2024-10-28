@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/arclab/ros2_ws/install/ros_study_py/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/ex_calculator/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages",
+        "/home/arclab/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/point_cloud/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/hough_transform/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/construct_turtlebot3_tasks/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/arclab/ros2_ws/install/construct1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/arclab/ros2_ws/install/ros_study_py/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/ex_calculator/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages",
+        "/home/arclab/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/point_cloud/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/hough_transform/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/construct_turtlebot3_tasks/lib/python3.10/site-packages",
+        "/home/arclab/ros2_ws/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/arclab/ros2_ws/install/construct1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
