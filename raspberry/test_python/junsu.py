@@ -32,7 +32,7 @@ try:
         distance = (duration * 34300) / 2  # 초음파의 속도를 이용하여 거리 계산
         print("Distance:", distance, "cm") # 거리 출력
 
-        time.sleep(1)  # 1초 간격으로 거리 측정
+        time.sleep(1.5)  # 1초 간격으로 거리 측정
 
 except KeyboardInterrupt:  # Ctrl+C로 종료 시
     GPIO.cleanup()         # GPIO 설정 초기화
